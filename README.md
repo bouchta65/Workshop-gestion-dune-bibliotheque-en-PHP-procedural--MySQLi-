@@ -67,3 +67,4 @@ CREATE TABLE livres (
     date_ajout DATE NOT NULL,
     disponibilite BOOLEAN DEFAULT 1
 );
+
